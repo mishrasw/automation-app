@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/automation-app/static/css/main.5051e919.css",
+    "main.js": "/automation-app/static/js/main.e0923445.js",
+    "static/js/453.55b13b6f.chunk.js": "/automation-app/static/js/453.55b13b6f.chunk.js",
+    "static/media/banner.png": "/automation-app/static/media/banner.69b3302e30663bdc526d.png",
+    "static/media/SeleniumTraining.png": "/automation-app/static/media/SeleniumTraining.e3618f980f71371c6934.png",
+    "static/media/logo1.png": "/automation-app/static/media/logo1.8a0b8f3fae16667abf12.png",
+    "static/media/playwright.png": "/automation-app/static/media/playwright.830032af4b2650873d26.png",
+    "index.html": "/automation-app/index.html",
+    "main.5051e919.css.map": "/automation-app/static/css/main.5051e919.css.map",
+    "main.e0923445.js.map": "/automation-app/static/js/main.e0923445.js.map",
+    "453.55b13b6f.chunk.js.map": "/automation-app/static/js/453.55b13b6f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5051e919.css",
+    "static/js/main.e0923445.js"
+  ]
+}
