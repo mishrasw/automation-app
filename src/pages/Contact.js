@@ -1,5 +1,5 @@
 import React from "react";
-import BannerImage from "../assets/banner.png";
+import ToolImage from "../assets/toolstylebanner.png";
 import "../style/Contact.css";
 
 function Contact() {
@@ -7,7 +7,7 @@ function Contact() {
     <div className="contact">
       <div
         className="leftSide"
-        style={{ backgroundImage: `url(${BannerImage})` }}
+        style={{ backgroundImage: `url(${ToolImage})` }}
       ></div>
       <div className="rightSide">
         <h1> Contact Us</h1>

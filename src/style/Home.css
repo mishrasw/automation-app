@@ -1,19 +1,16 @@
 .home {
   width: 100%;
-  height: 90vh;
+  height: 150vh;
   display: flex;
   flex-direction: column;
 }
-
+@media (max-width: 300px) {
 .homeTop {
   width: 100%;
-  height: 45%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 10%;
 }
-
+}
+@media (max-width: 300px) {
 .homeBottom {
   display: flex;
   flex-direction: column;
@@ -34,4 +31,5 @@
   display: flex;
   justify-content: center;
   transform: translateY(-40px);
+}
 }

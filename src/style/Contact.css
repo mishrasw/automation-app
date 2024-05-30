@@ -12,6 +12,7 @@
   background-size: cover;
 }
 
+
 .contact .rightSide {
   height: 100%;
   flex: 50%;
@@ -19,7 +20,7 @@
   flex-direction: column;
   justify-content: center;
 }
-
+@media (max-width: 300px) {
 .contact .rightSide h1 {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
@@ -27,7 +28,7 @@
   font-size: 50px;
   margin-left: 30px;
 }
-
+}
 form {
   display: flex;
   flex-direction: column;
