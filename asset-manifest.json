@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/automation-app/static/css/main.3e5d9aa4.css",
+    "main.css": "/automation-app/static/css/main.fde4346a.css",
     "main.js": "/automation-app/static/js/main.153a31a9.js",
     "static/js/453.55b13b6f.chunk.js": "/automation-app/static/js/453.55b13b6f.chunk.js",
     "static/media/toolstylebanner.png": "/automation-app/static/media/toolstylebanner.f0d6c6f987b7ad533130.png",
@@ -18,12 +18,12 @@
     "static/media/slick.ttf": "/automation-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/automation-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/automation-app/index.html",
-    "main.3e5d9aa4.css.map": "/automation-app/static/css/main.3e5d9aa4.css.map",
+    "main.fde4346a.css.map": "/automation-app/static/css/main.fde4346a.css.map",
     "main.153a31a9.js.map": "/automation-app/static/js/main.153a31a9.js.map",
     "453.55b13b6f.chunk.js.map": "/automation-app/static/js/453.55b13b6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e5d9aa4.css",
+    "static/css/main.fde4346a.css",
     "static/js/main.153a31a9.js"
   ]
 }
