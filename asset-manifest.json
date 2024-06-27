@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/rishilearning/static/css/main.06ac4ffb.css",
-    "main.js": "/rishilearning/static/js/main.7ce73cf1.js",
-    "static/js/453.55b13b6f.chunk.js": "/rishilearning/static/js/453.55b13b6f.chunk.js",
-    "static/media/toolstylebanner.png": "/rishilearning/static/media/toolstylebanner.f0d6c6f987b7ad533130.png",
-    "static/media/SeleniumTraining.png": "/rishilearning/static/media/SeleniumTraining.e3618f980f71371c6934.png",
-    "static/media/pw_framework.png": "/rishilearning/static/media/pw_framework.843ee00acb4f11982a89.png",
-    "static/media/appium.png": "/rishilearning/static/media/appium.42a2004f0240cfc83136.png",
-    "static/media/rest_assured.png": "/rishilearning/static/media/rest_assured.a1ec669bb2eda5a71e0e.png",
-    "static/media/lightblue1.png": "/rishilearning/static/media/lightblue1.0d6744e6918b3af04944.png",
-    "static/media/playwright.png": "/rishilearning/static/media/playwright.830032af4b2650873d26.png",
-    "static/media/imageComing.png": "/rishilearning/static/media/imageComing.fef727f6c404da3db8fe.png",
-    "static/media/logo2.png": "/rishilearning/static/media/logo2.0943af899ad3cda6b319.png",
-    "static/media/slick.svg": "/rishilearning/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/rishilearning/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/rishilearning/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/rishilearning/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/rishilearning/index.html",
-    "main.06ac4ffb.css.map": "/rishilearning/static/css/main.06ac4ffb.css.map",
-    "main.7ce73cf1.js.map": "/rishilearning/static/js/main.7ce73cf1.js.map",
-    "453.55b13b6f.chunk.js.map": "/rishilearning/static/js/453.55b13b6f.chunk.js.map"
+    "main.css": "/automation-app/static/css/main.87138723.css",
+    "main.js": "/automation-app/static/js/main.55775250.js",
+    "static/js/453.55b13b6f.chunk.js": "/automation-app/static/js/453.55b13b6f.chunk.js",
+    "static/media/toolstylebanner.png": "/automation-app/static/media/toolstylebanner.f0d6c6f987b7ad533130.png",
+    "static/media/SeleniumTraining.png": "/automation-app/static/media/SeleniumTraining.e3618f980f71371c6934.png",
+    "static/media/pw_framework.png": "/automation-app/static/media/pw_framework.843ee00acb4f11982a89.png",
+    "static/media/appium.png": "/automation-app/static/media/appium.42a2004f0240cfc83136.png",
+    "static/media/rest_assured.png": "/automation-app/static/media/rest_assured.a1ec669bb2eda5a71e0e.png",
+    "static/media/lightblue1.png": "/automation-app/static/media/lightblue1.0d6744e6918b3af04944.png",
+    "static/media/playwright.png": "/automation-app/static/media/playwright.830032af4b2650873d26.png",
+    "static/media/imageComing.png": "/automation-app/static/media/imageComing.fef727f6c404da3db8fe.png",
+    "static/media/logo2.png": "/automation-app/static/media/logo2.0943af899ad3cda6b319.png",
+    "static/media/slick.svg": "/automation-app/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/automation-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/automation-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/automation-app/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/automation-app/index.html",
+    "main.87138723.css.map": "/automation-app/static/css/main.87138723.css.map",
+    "main.55775250.js.map": "/automation-app/static/js/main.55775250.js.map",
+    "453.55b13b6f.chunk.js.map": "/automation-app/static/js/453.55b13b6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06ac4ffb.css",
-    "static/js/main.7ce73cf1.js"
+    "static/css/main.87138723.css",
+    "static/js/main.55775250.js"
   ]
 }
