@@ -9,7 +9,7 @@ function Contact() {
         className="leftSide"
         style={{ backgroundImage: `url(${ToolImage})` }}
       ></div>
-      <div className="rightSide">
+      <div className="rightSide" style={{ color: 'white' }}>
         <h1> Contact Us</h1>
 
         <form id="contact-form" method="POST">

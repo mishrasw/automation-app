@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  width: 98%;
+  height: auto;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: #00000000;
+}
+
+.text {
+  width: auto;
+  margin-left: 10px;
+  align-items: left;
+  justify-content: left;
+  animation: fadeInRight 1s ease-in-out;
+}
+
+.image img {
+  width: 95%;
+  height: 100%;
+  align-items: right;
+  justify-content: right;
+  animation: fadeInLeft 1s ease-in-out;
+}
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}

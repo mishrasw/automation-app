@@ -1,6 +1,7 @@
+@media (max-width: 300px) {
 .about {
   width: 100%;
-  height: 90vh;
+  height: 200vh;
   display: flex;
   flex-direction: column;
 }
@@ -21,11 +22,20 @@
   align-items: center;
   margin-top: 50px;
 }
-@media (max-width: 300px) {
+.mathlinks{
+  flex: 50%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
 .aboutBottom p {
   width: 1200px;
 }
-}
+
+
 .about .aboutBottom h1 {
   font-weight: 400;
   font-size: 70px;
@@ -34,4 +44,5 @@
   display: flex;
   justify-content: center;
   transform: translateY(-40px);
+}
 }

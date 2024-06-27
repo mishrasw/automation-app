@@ -1,0 +1,23 @@
+/* src/components/Square.css */
+.square {
+    display: inline-block;
+    /*width: 100px;
+    height: 300px;
+    margin: 10px;
+    background-color: #4caf4f03;*/
+    background-color: #000000;
+    color: white;
+    font-size: 24px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    opacity: 0;
+    animation: fadeIn 1s forwards;
+  }
+  
+  @keyframes fadeIn {
+    to {
+      opacity: 1;
+    }
+  }
+  

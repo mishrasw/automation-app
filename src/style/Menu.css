@@ -8,7 +8,7 @@
 }
 .menu .menuTitle {
   font-family: cursive;
-  font-size: 50px;
+  font-size: 60px;
 }
 
 .menuList {
@@ -23,8 +23,8 @@
 
 .menuItem {
   border-radius: 15px;
-  width: 350px;
-  height: 380px;
+  width: 250px;
+  height: 350px;
   margin: 20px;
   box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
 }
@@ -47,12 +47,11 @@
 .menuItem h1,
 .menuItem p {
   margin-left: 20px;
-  font-size: 20px;
 }
 
 @media only screen and (max-width: 1300px) {
   .menuList {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr 1fr;
   }
 }
 

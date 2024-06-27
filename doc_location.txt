@@ -4,3 +4,10 @@ https://www.youtube.com/watch?v=QwarZBtFoFA&t=1736s
 
 wall papers:
 https://wallpapercave.com/plain-colour-wallpaper-hd
+
+
+To deploy build to git:
+git add .
+git commit -m  "comment"
+git push origin master
+npm run deploy

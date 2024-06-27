@@ -5,7 +5,7 @@ import "../style/Menu.css";
 
 function Menu() {
   return (
-    <div className="menu">
+    <div className="menu" style={{ color: 'white' }}>
       <h1 className="menuTitle">Training Programmes</h1>
       <div className="menuList">
         {MenuList.map((menuItem, key) => {

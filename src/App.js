@@ -1,4 +1,5 @@
 import './App.css';
+import AnimatedBackground from './AnimatedBackground';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Footer from "./components/Footer";
 import Navbar from './components/Navbar';
@@ -10,6 +11,7 @@ import Contact from "./pages/Contact";
 function App() {
   return (
     <div className="App" >
+       <AnimatedBackground />
       <Router>
         <Navbar />
           <Switch>
