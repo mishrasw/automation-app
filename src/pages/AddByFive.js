@@ -3,8 +3,9 @@ import "../style/About.css"
 
 
 const generateRandomNumbers = () => {
+  const num3=Math.floor(Math.random() * 10)+1;
   return {
-    num1: Math.floor(Math.random() * 100),
+    num1 : num3 * 5,
     //num2: Math.floor(Math.random() * 100),
     num2: 5,
   };

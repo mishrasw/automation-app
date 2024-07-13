@@ -5,7 +5,7 @@ import "../style/About.css"
 
 const generateRandomNumbers = () => {
   return {
-    num1: Math.floor(Math.random() * 20)+1,
+    num1: Math.floor(Math.random() * 30)+1,
     //num2: Math.floor(Math.random() * 100),
     num2: Math.floor(Math.random() * 4)+1,
   };
