@@ -22,7 +22,11 @@ function Home() {
     <div className="homeTop">
     </div>
       <div className="homeBottom" style={{ color: 'white' }}>
-        Play Website
+        <p>Welcome to RishiLearning, the ultimate online destination designed to boost your 
+        child's learning skills in a fun, engaging, and interactive way.</p>
+       <p>Our mission is to 
+      create a safe and inspiring digital space where kids can explore, learn, and grow 
+      at their own pace.</p>
    </div>    
     </div>
     </div>

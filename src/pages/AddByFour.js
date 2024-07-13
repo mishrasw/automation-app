@@ -5,13 +5,13 @@ import "../style/About.css"
 
 const generateRandomNumbers = () => {
   return {
-    num1: Math.floor(Math.random() * 100),
+    num1: Math.floor(Math.random() * 20)+1,
     //num2: Math.floor(Math.random() * 100),
-    num2: Math.floor(Math.random() * 3)+1,
+    num2: Math.floor(Math.random() * 4)+1,
   };
 };
 
-const AddByThree = () => {
+const AddByFour = () => {
   const [questions, setQuestions] = useState(Array.from({ length: 10 }, generateRandomNumbers));
   const [answers, setAnswers] = useState(Array(10).fill(''));
   const [showCongrats, setShowCongrats] = useState(false);
@@ -134,4 +134,4 @@ const AddByThree = () => {
   );
 };
 
-export default AddByThree;
+export default AddByFour;
