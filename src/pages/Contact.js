@@ -1,34 +1,28 @@
 import React from "react";
-import ToolImage from "../assets/toolstylebanner.png";
 import "../style/Contact.css";
+import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
+import PdfViewer from "../components/PdfViewer";
+import Christmas from "./Christmas.js"
+import Clever from "./Clever.js"
 
-function Contact() {
+const Contact = () => {
+  const christmasUrl = '/automation-app/What_Is_Christmas.pdf';
+  const cleverTortoiseUrl = '/automation-app/The_Clever_Tortoise.pdf';
   return (
-    <div className="contact">
-      <div
-        className="leftSide"
-        style={{ backgroundImage: `url(${ToolImage})` }}
-      ></div>
-      <div className="rightSide" style={{ color: 'white' }}>
-        <h1> Contact Us</h1>
-
-        <form id="contact-form" method="POST">
-          <label htmlFor="name">Full Name</label>
-          <input name="name" placeholder="Enter full name..." type="text" />
-          <label htmlFor="email">Email</label>
-          <input name="email" placeholder="Enter email..." type="email" />
-          <label htmlFor="message">Message</label>
-          <textarea
-            rows="6"
-            placeholder="Enter message..."
-            name="message"
-            required
-          ></textarea>
-          <button type="submit"> Send Message</button>
-        </form>
+<div>
+<Router>
+      <div class="readLinks">
+      <Link to="/Christmas" style={{ color: 'white' }}>What is Christmas?</Link>&nbsp;&nbsp;
+      <Link to="/Clever" style={{ color: 'white' }}>Clever Tortoise</Link>&nbsp;&nbsp;
       </div>
-    </div>
-  );
-}
+        <Switch>
+          <Route path="/Christmas"  exact component={Christmas} />
+          <Route path="/Clever"  exact component={Clever} />
+        </Switch>
+      </Router> 
+      </div>
 
-export default Contact;
+)};
+  
+  export default Contact;
+  

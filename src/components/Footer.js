@@ -11,7 +11,7 @@ function Footer() {
       <div className="socialMedia">
         
       </div>
-      <p> &copy; 2024 techno-trail.com</p>
+      <p> &copy; 2024 mishrasw.github.io/automation-app/</p>
     </div>
   );
 }
