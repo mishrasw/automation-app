@@ -1,9 +1,8 @@
 import React from "react";
 import "../style/Contact.css";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
-import PdfViewer from "../components/PdfViewer";
-import Christmas from "./Christmas.js"
-import Clever from "./Clever.js"
+import Christmas from "./Christmas.js";
+import Clever from "./Clever.js";
 
 const Contact = () => {
   const christmasUrl = '/automation-app/What_Is_Christmas.pdf';

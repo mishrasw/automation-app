@@ -10,7 +10,7 @@ const PdfViewer = ({ file }) => {
 
     return (
         <div style={{ height: '750px' }}>
-            <Worker workerUrl={`https://unpkg.com/pdfjs-dist@${pdfjsLib.version}/build/pdf.worker.min.js`}>
+            <Worker workerUrl={`https://unpkg.com/pdfjs-dist@3.11.174/build/pdf.worker.min.js`}>
                 <Viewer fileUrl={file} plugins={[defaultLayoutPluginInstance]} />
             </Worker>
         </div>
