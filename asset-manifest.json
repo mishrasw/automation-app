@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/automation-app/static/css/main.d77871e0.css",
-    "main.js": "/automation-app/static/js/main.f41e709f.js",
+    "main.css": "/automation-app/static/css/main.2c0c312c.css",
+    "main.js": "/automation-app/static/js/main.d1bbeba5.js",
     "static/js/453.55b13b6f.chunk.js": "/automation-app/static/js/453.55b13b6f.chunk.js",
     "static/media/SeleniumTraining.png": "/automation-app/static/media/SeleniumTraining.e3618f980f71371c6934.png",
     "static/media/pw_framework.png": "/automation-app/static/media/pw_framework.843ee00acb4f11982a89.png",
@@ -16,12 +16,12 @@
     "static/media/slick.ttf": "/automation-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/automation-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/automation-app/index.html",
-    "main.d77871e0.css.map": "/automation-app/static/css/main.d77871e0.css.map",
-    "main.f41e709f.js.map": "/automation-app/static/js/main.f41e709f.js.map",
+    "main.2c0c312c.css.map": "/automation-app/static/css/main.2c0c312c.css.map",
+    "main.d1bbeba5.js.map": "/automation-app/static/js/main.d1bbeba5.js.map",
     "453.55b13b6f.chunk.js.map": "/automation-app/static/js/453.55b13b6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d77871e0.css",
-    "static/js/main.f41e709f.js"
+    "static/css/main.2c0c312c.css",
+    "static/js/main.d1bbeba5.js"
   ]
 }
